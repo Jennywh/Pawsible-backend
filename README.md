@@ -12,7 +12,7 @@ npm install
 - perferred-contact-method: email/text/phone
     - email
     - phone-number
-- pets
+- pets (array of {})
     - name
     - type: dog/cat/others
     - breed
