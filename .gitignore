@@ -1,2 +1,6 @@
 .env
+.env.local
+.env.*.local
+*.log
 node_modules/
+firebaseAdminSDK.json
