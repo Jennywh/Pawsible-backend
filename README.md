@@ -20,10 +20,12 @@ npm install
     - gender
     - care-instruction: string
     - picture
-- preference
+- My preference for pet sitting for others 
+    - distance from me
+    - gender of owner? 
     - type-of-pet: dog/cat
     - additional-services: walking, grooming
-- availability
+    - availability
 - verified?
 - social-media-links
 - emergency
