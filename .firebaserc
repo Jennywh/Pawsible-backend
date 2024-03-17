@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "pawsible-33335",
+    "staging": "pawsible-33335"
+  },
+  "targets": {},
+  "etags": {}
+}
