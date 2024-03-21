@@ -7,7 +7,7 @@ npm install
 - username
 - paws: available number of paws
 - address: precise location
-- city/region: used for matching
+- zipCode: used for matching
 - bio: introduction
 - perferred-contact-method: email/text/phone
     - email
@@ -31,3 +31,12 @@ npm install
 - emergency
     - contact
     - vet
+
+#### Pet Sitting Request
+- createUser (uid)
+- targetUser (uid)
+- status: pending/approved/rejected
+- time
+- date
+- isRecurring
+- createdTime
