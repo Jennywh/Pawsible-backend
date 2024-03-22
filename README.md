@@ -33,10 +33,10 @@ npm install
     - vet
 
 #### Pet Sitting Request
-- createUser (uid)
-- targetUser (uid)
+- ownerID (uid)
+- helperID (uid)
+- potentialHelpers (array of UID)
 - status: pending/approved/rejected
-- time
+- time period needed
 - date
-- isRecurring
 - createdTime
