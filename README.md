@@ -36,7 +36,7 @@ npm install
 - ownerID (uid)
 - helperID (uid)
 - potentialHelpers (array of UID)
-- status: pending/approved/rejected
+- status: pending/matched/unsuccessful/fulfilled/in process
 - time period needed
 - date
 - createdTime
